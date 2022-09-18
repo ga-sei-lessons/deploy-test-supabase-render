@@ -11,8 +11,6 @@ processes = []
 
 [env]
   PORT = "8080"
-  ENC_SECRET = 'my super secret enc key'
-  DATABASE_URI = 'postgresql://postgres:4l8f5StyplQTZtTK@db.wjyerwtbxazojugztrjz.supabase.co:5432/postgres'
   NODE_ENV = 'production'
 
 [experimental]
